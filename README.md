@@ -11,24 +11,24 @@ Rob Miles
 
 ## Functions and parameters
 
-* [Named parameters in functions and methods](/01%20Named%20parameters%20in%20functions%20and%20methods.md)
-* [Default parameter values in functions and methods](/02%20Default%20parameter%20values%20in%20functions%20and%20methods.md)
+* [Named parameters in functions and methods](/pages/01%20Named%20parameters%20in%20functions%20and%20methods.md)
+* [Default parameter values in functions and methods](/pages/02%20Default%20parameter%20values%20in%20functions%20and%20methods.md)
 
 ## Structured Data
 
-* [Tuples](/03%20Tuples.md)
-* [Tuple of One](/04%20Tuple%20of%20One.md)
-* [Lists](/05%20Lists.md)
-* [List Fun](/06%20List%20Fun.md)
-* [Dictionaries](/07%20Dictionaries.md)
-* [Dictionary Fun](/08%20Dictionary%20Fun.md)
-* [Dictionary Madness](/09%20Dictionary%20Madness.md)
+* [Tuples](/pages/03%20Tuples.md)
+* [Tuple of One](/pages/04%20Tuple%20of%20One.md)
+* [Lists](/pages/05%20Lists.md)
+* [List Fun](/pages/06%20List%20Fun.md)
+* [Dictionaries](/pages/07%20Dictionaries.md)
+* [Dictionary Fun](/pages/08%20Dictionary%20Fun.md)
+* [Dictionary Madness](/pages/09%20Dictionary%20Madness.md)
 
 ## Variable Scope
 
-* [Going Global](/10%20Going%20Global.md)
+* [Going Global](/pages/10%20Going%20Global.md)
 
 ## Formatted String Literals
 
-* [Formatted string literals](/11%20Formatted%20string%20literals.md)
-* [Fun with string formatting](/12%20Fun%20with%20string%20formatting.md)
+* [Formatted string literals](/pages/11%20Formatted%20string%20literals.md)
+* [Fun with string formatting](/pages/12%20Fun%20with%20string%20formatting.md)

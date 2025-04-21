@@ -18,6 +18,6 @@ x = (1,)
 
 This would “tupleise” the value.
 
-[Lists](/05%20Lists.md)
+[Lists](/pages/05%20Lists.md)
 
 [home](/README.md)

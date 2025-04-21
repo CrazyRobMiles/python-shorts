@@ -19,6 +19,6 @@ add_person(name="Jim",age=21)
 
 Now the destinations are explicitly defined and there is no chance of error and the code is much clearer.
 
-[Default Parameter Values](/02%20Default%20parameter%20values%20in%20functions%20and%20methods.md)
+[Default Parameter Values](/pages/02%20Default%20parameter%20values%20in%20functions%20and%20methods.md)
 
 [home](/README.md)

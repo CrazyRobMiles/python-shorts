@@ -22,6 +22,6 @@ The statement above tries to change the in the x tuple. This will not work. Tupl
 
 I find tuples very useful, but I do worry that the thing making the tuple and the thing using the tuple have to agree on the order of the elements. As we saw with name and age in function parameters this might lead to confusion. If you want both ends of a conversation to be absolutely clear about which data means what, you can use dictionaries to do that, but they are coming later. 
 
-[Tuple of one](/04%20Tuple%20of%20One.md)
+[Tuple of one](/pages/04%20Tuple%20of%20One.md)
 
 [home](/README.md)

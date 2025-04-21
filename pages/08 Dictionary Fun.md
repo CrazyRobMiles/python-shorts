@@ -27,6 +27,6 @@ n = z.get("name")
 ```
 This would set n to the name in z.
 
-[Dictionary Madness]
+[Dictionary Madness](/pages/09%20Dictionary%20Madness.md)
 
 [home](/README.md)

@@ -10,6 +10,6 @@ y[0]="James"
 ```
 This statement changes the item at the start of y to “James”.
 
-[List Fun](/06%20List%20Fun.md)
+[List Fun](/pages/06%20List%20Fun.md)
 
 [home](/README.md)

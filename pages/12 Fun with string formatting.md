@@ -44,4 +44,4 @@ The above statements make a banner which is 16 characters long and contains the 
 
 It is worth getting good with format strings, they can save an awful lot of work.
 
-[back](/README.md)
+[home](/README.md)

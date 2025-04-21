@@ -12,6 +12,6 @@ n = z["name"]
 ```
 The above statement gets the value of the name item in z. In this case the value of n would be “Anne”. 
 
-[Dictionary Fun](/08%20Dictionary%20Fun.md)
+[Dictionary Fun](/pages/08%20Dictionary%20Fun.md)
 
 [home](/README.md)

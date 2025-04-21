@@ -19,6 +19,6 @@ age_braces = f"{{{age}}}"
 ```
 This would create a string containing the value of age enclosed in braces.
 
-[Fun with string formatting](/12%20Fun%20with%20string%20formatting.md)
+[Fun with string formatting](/pages/12%20Fun%20with%20string%20formatting.md)
 
 [home](/README.md)

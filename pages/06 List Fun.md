@@ -18,6 +18,6 @@ x.insert(0,0)
 ```
 This statement would put the value 0 at the start of list x. You can use the remove behaviour to get rid of an element at a particular position in the list and pop, which removes an item and returns it. 
 
-[Dictionaries](/07%20Dictionaries.md)
+[Dictionaries](/pages/07%20Dictionaries.md)
 
 [home](/README.md)
