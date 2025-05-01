@@ -32,3 +32,7 @@ Rob Miles
 
 * [Formatted string literals](/pages/11%20Formatted%20string%20literals.md)
 * [Fun with string formatting](/pages/12%20Fun%20with%20string%20formatting.md)
+
+## Circuit Python
+
+* [Using CircuitPython’s Two USB Serial Ports](/pages/13%20CircuitPython%20serial%20communication)
