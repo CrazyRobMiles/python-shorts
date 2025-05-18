@@ -35,4 +35,8 @@ Rob Miles
 
 ## Circuit Python
 
-* [Using CircuitPython’s Two USB Serial Ports](/pages/13%20CircuitPython%20serial%20communication)
+* [Using CircuitPython’s Two USB Serial Ports](/pages/13%20CircuitPython%20serial%20communication.md)
+* [Turning off the Circuit Python storage device](/python-shorts/pages/14%20Turning%20off%20the%20Circuit%20Python%20storage%20device.md)
+
+
+
