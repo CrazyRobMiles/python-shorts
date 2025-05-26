@@ -38,5 +38,6 @@ Rob Miles
 * [Using CircuitPython’s Two USB Serial Ports](/pages/13%20CircuitPython%20serial%20communication.md)
 * [Turning off the Circuit Python storage device](/python-shorts/pages/14%20Turning%20off%20the%20Circuit%20Python%20storage%20device.md)
 
-
+## Micro Python
+* [Putting a Micro Python device into firmware download mode](/python-shorts/pages/15%20Putting%20a%20Micro%20Python%20device%20into%20firmware%20download%20mode.md)
 
