@@ -1,6 +1,6 @@
 # python-shorts
 
-![shorts with a python on them](/python-shorts/images/small%20shorts.png)
+![shorts with a python on them](/python-shorts/images/smallshorts.png)
 
 
 I thought it might be fun to create some short short, sharp Python hints. They've been featured in [my blog](https://www.robmiles.com/) and now I've brought them together in one place. At the bottom of some shorts are links to ones that you might want to read next. If you've got any ideas for topics send them to [pythonshorts@robmiles.com](mailto:pythonshorts@robmiles.com)
@@ -23,6 +23,7 @@ Rob Miles
 * [Dictionaries](/pages/07%20Dictionaries.md)
 * [Dictionary Fun](/pages/08%20Dictionary%20Fun.md)
 * [Dictionary Madness](/pages/09%20Dictionary%20Madness.md)
+* [Tuples vs Lists: Fight!](/python-shorts/pages/16%20Tuples%20vs%20lists)
 
 ## Variable Scope
 
