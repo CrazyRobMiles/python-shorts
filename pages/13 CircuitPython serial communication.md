@@ -38,4 +38,4 @@ usb_cdc.disable(console=True)
 ```
 Note that if you disable the console port you will not be able to interact with the device using tools such as Thonny. You will have to erase the EEPROM in the PICO and the re-flash it to get back control of the device. 
 
-[home](/README.md)*
+[home](/README.md)
