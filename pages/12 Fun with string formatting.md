@@ -1,4 +1,4 @@
-# 12 Fun with string formatting
+# Fun with string formatting
 
 We can use Python formatted string literals to easily drop values into strings of text. But we can also have even more fun with them when we add extra information to control the formatting process. This is particularly useful when we are creating messages to be displayed on devices with particular dimensions.  
 

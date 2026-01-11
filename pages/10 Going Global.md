@@ -1,4 +1,4 @@
-# 10 Going Global
+# Going Global
 
 A variable is a box you can name to put something in. In Python you can just make one:
 ```

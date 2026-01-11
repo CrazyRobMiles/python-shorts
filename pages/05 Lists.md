@@ -1,4 +1,4 @@
-# 05 Lists
+# Lists
 
 Making a list looks very like making a tuple:
 ```

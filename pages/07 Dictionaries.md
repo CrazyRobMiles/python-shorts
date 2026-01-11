@@ -1,4 +1,4 @@
-# 07 Dictionaries
+# Dictionaries
 
 You may have spotted a problem with lists and tuples. When we talked about functions we worried about the situation where we use the wrong order of parameters to a call. We can get the same problem with lists and tuples:
 

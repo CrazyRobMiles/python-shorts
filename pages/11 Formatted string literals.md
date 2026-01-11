@@ -1,4 +1,4 @@
-# 11 Formatted string literals
+# Formatted string literals
 
 Formatted string literals are amazingly useful. You can make your Python output look really good, whether you are printing on the terminal or assembling a message to be displayed on an embedded display. 
 

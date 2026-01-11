@@ -17,3 +17,5 @@ storage.remount("/", readonly=False)
 This program disables the usb storage, ensures that we can still deploy files using the REPL commands and then remounts the Circuit Python file system so that it can be written to. 
 
 **Note:** If you don't enable the REPL console you will have a slightly more secure device (it will not be possible to easily fiddle with the filestore via a serial connection). However, you will have to erase the current program in the device if you want to make any changes to it. 
+
+[home](/README.md)

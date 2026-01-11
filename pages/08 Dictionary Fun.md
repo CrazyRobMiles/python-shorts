@@ -1,4 +1,4 @@
-# 08 Dictionary Fun
+# Dictionary Fun
 
 Dictionaries are fun. As we saw last time we can use them to create lumps of data with named contents:
 ```

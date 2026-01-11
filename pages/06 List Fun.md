@@ -1,4 +1,4 @@
-# 06 List Fun
+# List Fun
 
 Python lists are nice. We can make them very easily:
 ```

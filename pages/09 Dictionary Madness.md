@@ -1,4 +1,4 @@
-# 09 Dictionary Madness
+# Dictionary Madness
 
 You can have all kinds of fun with dictionaries. 
 

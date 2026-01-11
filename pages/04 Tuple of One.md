@@ -1,4 +1,4 @@
-# 04 Tuple of One
+# Tuple of One
 
 We’ve seen that we can create a tuple by using brackets to “squish” things together:
 ```

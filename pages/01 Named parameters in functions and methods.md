@@ -1,4 +1,4 @@
-## 01 Named parameters in functions and methods
+## Named parameters in functions and methods
 Python functions and methods can accept parameters that feed data into them. But once you have more than one parameter it can get tricky. For example, perhaps we have a function called add_person which adds a person to our system. The function accepts the name and the age of the person: 
 
 ```

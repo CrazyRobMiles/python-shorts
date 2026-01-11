@@ -1,4 +1,4 @@
-# 03 Tuples
+# Tuples
 
 Tuples should be called “lumps”. You can squish things together to make a lump. Tuples let you squish data together.
 ```

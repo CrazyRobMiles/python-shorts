@@ -1,4 +1,4 @@
-# 02 Default parameter values in functions and methods
+# Default parameter values in functions and methods
 
 We’ve seen how to make parameters clearer in calls, now let’s add some magic to the function itself. Sometimes we might only have the name of the person, can we make an add_person which will handle only one input? Yes, we can.
 ```
