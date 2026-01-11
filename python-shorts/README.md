@@ -13,6 +13,7 @@ Rob Miles
 
 * [Named parameters in functions and methods](/pages/01%20Named%20parameters%20in%20functions%20and%20methods.md)
 * [Default parameter values in functions and methods](/pages/02%20Default%20parameter%20values%20in%20functions%20and%20methods.md)
+* [Unpacking tuples and passing them as arguments](/pages/17%20Unpacking%20tuples%20and%20passing%20them%20as%20arguments.md)
 
 ## Structured Data
 

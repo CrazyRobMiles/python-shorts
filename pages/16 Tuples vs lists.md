@@ -77,3 +77,5 @@ RED = (255,0,0)
 ```
 
 I can make things **RED** and be sure that they will always be **RED**. I don't have to worry whether or not something has fiddled with the contents of RED because they can't. It's a tuple. The only thing I have to worry about is if I assign RED to a list (perhaps the thing )
+
+[home](/README.md)
